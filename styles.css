@@ -2,6 +2,7 @@ body {
     font-family: 'Baskervville', serif;
     margin:40px auto;
     max-width:600px;
+    padding:10px;
     font-size:18px;
     color:#444;
 }
