@@ -1,5 +1,5 @@
 body { 
-    font-family: 'Baskervville', serif;
+    font-family: serif, sans-serif;
     margin:40px auto;
     max-width:650px;
     padding:10px;
@@ -9,6 +9,6 @@ body {
 }
 
 h1,h2,h3,h4 {
-    font-family: 'Baskervville', serif;
+    font-family: serif, sans-serif;
     line-height:1.2;
 }
