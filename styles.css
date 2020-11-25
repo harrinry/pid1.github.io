@@ -1,9 +1,9 @@
 body { 
     font-family: serif, sans-serif;
-    margin:1em auto;
-    max-width:50em;
-    padding:.4em;
-    font-size:1.2em;
+    margin:0 auto;
+    max-width:50rem;
+    padding:2rem;
+    font-size:1.2rem;
     line-height:1.4;
     color:#002b36;
     background-color:#fdf6e3;
@@ -23,8 +23,8 @@ h1,h2,h3,h4 {
 }
 
 p {
-    padding: 0em;
-    margin: 0em;
+    padding: 0rem;
+    margin: 0rem;
 }
 
 a:link {
