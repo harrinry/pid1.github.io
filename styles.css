@@ -8,13 +8,6 @@ body {
     background-color: #fdf6e3;
 }
 
-@media (prefers-color-scheme: dark) { 
-    body {
-        color: #839496;
-        background-color: #002b36;
-    }
-}
-
 h1,h2,h3,h4 {
     font-family: ui-serif, serif, sans-serif, system-ui;
     line-height: 1.4rem;
@@ -31,4 +24,11 @@ a:link {
   
 a:visited {
     color: #2aa198;
+}
+
+@media (prefers-color-scheme: dark) { 
+    body {
+        color: #839496;
+        background-color: #002b36;
+    }
 }
