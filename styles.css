@@ -1,5 +1,5 @@
 body { 
-    font-family: ui-serif, serif, sans-serif, system-ui;
+    font-family: New York, ui-serif, serif, sans-serif, system-ui;
     margin: 0 auto;
     max-width: 50rem;
     padding: 2rem;
@@ -9,7 +9,6 @@ body {
 }
 
 h1,h2,h3,h4 {
-    font-family: ui-serif, serif, sans-serif, system-ui;
     line-height: 1.4rem;
 }
 
